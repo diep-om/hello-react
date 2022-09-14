@@ -4,3 +4,4 @@ A React template with
 - TypeScript
 - SASS
 - Webpack
+- Jest
